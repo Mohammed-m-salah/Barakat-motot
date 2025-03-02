@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Generators are a vital solution for providing power in places where there is no fixed source, or in emergency situations. They convert mechanical energy into electrical energy to operate essential devices and facilities. In the Gaza Strip, these generators have become of utmost importance due to the ongoing aggression that has damaged the main power station. As a result, generators are used to provide electricity to hospitals, educational centers, and vital services, thus contributing to mitigating the effects of power outages and ensuring the continuity of basic services for citizens under difficult circumstances.
 
-This project is a starting point for a Flutter application.
+Tools
+Architecture: MVC
+State Management: GetX
+API Integration: http
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add some screenshots
